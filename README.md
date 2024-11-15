@@ -1,6 +1,6 @@
 # HTML Code Generator
 
-Aplikacja generuje kod HTML na podstawie artykułu tekstowego, automatycznie strukturyzując treść i dodając obrazy wygenerowane przez DALL-E 3. Wygenerowane grafiki dostępne są tylko przez godzinę od momentu wygenerowania. Program używa OpenAI API oraz biblioteki BeautifulSoup do przetworzenia i wygenerowania finalnej wersji pliku HTML.
+Aplikacja generuje kod HTML na podstawie artykułu tekstowego, strukturyzując treść z pomocą modelu GPT-4o mini i dodając obrazy wygenerowane przez DALL-E 3. Wygenerowane grafiki dostępne są tylko przez godzinę od momentu wygenerowania. Program używa OpenAI API oraz biblioteki BeautifulSoup do przetworzenia i wygenerowania finalnej wersji pliku HTML.
 
 ## Opis działania
 
