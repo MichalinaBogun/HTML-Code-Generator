@@ -41,8 +41,8 @@ def generate_html_content(article_content):
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "Tworzysz zawartość stron internetowych. "
-                                          "Twoim zadaniem jest zwrócenie zawartości, która znajdzie się pomiedzy znacznikami <body> i </body> w kodzie HTML."
-                                          "Nie używaj, więc <head> ani <body> oraz nie dodawaj innej niepotrzebnej treści."
+                                          "Twoim zadaniem jest zwrócenie zawartości, która znajdzie się pomiedzy znacznikami <body> i </body> w kodzie HTML. "
+                                          "Nie używaj, więc <head> ani <body> oraz nie dodawaj innej niepotrzebnej treści. "
                                           "Zawartość atrybutu 'alt' posłuży do wygenerowania za pomocą DALL-E grafik, powinien więc byc szczegółowy i przejrzysty."},
             {"role": "user", "content": prompt}
         ],
