@@ -8,11 +8,9 @@ Skrypt przetwarza tekst artykułu z pliku *artykul.txt*, a następnie osadza go 
 
 W katalogu *strona* znajdują się dwa dodatkowe pliki:
 
-1. ***szablon.html***
-Plik zawiera pusty szablon HTML, przygotowany do wizualizacji artykułów. Zawiera w pełni opracowaną sekcję `<head>`, wraz ze stylami CSS. Sekcja `<body>` jest pusta i gotowa do wklejenia kodu przetworzonego artykułu.
+1. ***szablon.html*** - plik zawiera pusty szablon HTML, przygotowany do wizualizacji artykułów. Zawiera w pełni opracowaną sekcję `<head>`, wraz ze stylami CSS. Sekcja `<body>` jest pusta i gotowa do wklejenia kodu przetworzonego artykułu.
 
-2. ***podglad.html***
-   Plik zawiera pełny podgląd artykułu. Jest to gotowy dokument HTML, w którym sekcja `<body>` zawiera przykładowy artykuł, przetworzony przy pomocy stworzonej aplikacji.
+2. ***podglad.html*** - plik zawiera pełny podgląd artykułu. Jest to gotowy dokument HTML, w którym sekcja `<body>` zawiera przykładowy artykuł, przetworzony przy pomocy stworzonej aplikacji.
 
 ## Wymagania
 
